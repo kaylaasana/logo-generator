@@ -32,7 +32,7 @@ const questions = [
             name: 'shapeColor',
         },
     ]
-// prompt user for text (no more than three char), shape, color of text, color of shape
+// // prompt user for text (no more than three char), shape, color of text, color of shape
 // function init() { 
 // // ask the user questions
 //     inquirer
@@ -41,7 +41,7 @@ const questions = [
 //     .then((answers) => {
 //      // console.log(answers)
 //      let logo = generateLogo(answers)        
-//      writeToFile('./examples/logo.svg', markDown)
+//      writeToFile('./examples/logo.svg', logo)
 //     }).catch((error) => {
 //         console.log(error);
 //     });
