@@ -6,7 +6,7 @@ To use this application the user will need to run "node index.js" in their termi
 
 To view this application in action, please click the video link below:
 
-[![Demo video]()]()
+[![Demo video](./assets/Screenshot%20.png)](https://drive.google.com/file/d/1qUY5NEivNrOGsOI5JEjM8SbmPDRnHD6e/view)
 
 ## Contact
 
